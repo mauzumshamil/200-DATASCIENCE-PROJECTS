@@ -1,0 +1,9 @@
+## Electric Vehicles Market Size Analysis using Python
+
+This is the first project in the 200+ data science projects series. In this analysis, I used a real-time dataset up to 2024 to examine the electric vehicles (EV) market size. The project includes:
+
+- Data exploration to understand EV market trends.
+- Visualization of market insights using graphical plots.
+- Model evaluation to assess predictive performance.
+- Analysis of top EV makers and car models.
+- Forecasting EV registration in the US for the next six years.
